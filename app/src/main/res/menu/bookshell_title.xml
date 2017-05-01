@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:title="搜索"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mode_liebiao"
+        android:icon="@drawable/ic_dehaze_white_24dp"
+        android:title="列表模式"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mode_bookshell"
+        android:icon="@drawable/ic_view_comfy_white_24dp"
+        android:title="书架模式"
+        app:showAsAction="always" />
+
+
+</menu>
